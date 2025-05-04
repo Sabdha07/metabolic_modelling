@@ -1,0 +1,61 @@
+model1,model2,phylum1,phylum2,jaccard_distance,category,interaction0-50,interaction100-150,interaction200-250,interaction300-350,interaction400-450,community_level_interaction
+65,66,Firmicutes,Firmicutes,0.0037037037037036,low,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+66,67,Firmicutes,Firmicutes,0.0140324963072377,low,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+41,42,Firmicutes,Firmicutes,0.0531914893617021,low,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+50,51,Actinobacteria,Actinobacteria,0.0944262295081966,low,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+3,4,Proteobacteria,Proteobacteria,0.130086313193588,low,amensalism,competition,competition,competition,competition,antagonistic interaction
+91,94,Firmicutes,Firmicutes,0.133884297520661,low,neutralism,neutralism,commensalism,commensalism,commensalism,synergistic interaction
+46,48,Fusobacteria,Fusobacteria,0.174125305126119,low,amensalism,competition,competition,competition,competition,antagonistic interaction
+72,100,Proteobacteria,Proteobacteria,0.183856502242152,low,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+39,54,Proteobacteria,Proteobacteria,0.191780821917808,low,competition,competition,competition,competition,competition,antagonistic interaction
+77,79,Bacteroidetes,Bacteroidetes,0.195142378559464,low,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+48,49,Fusobacteria,Fusobacteria,0.200806451612903,low,competition,competition,competition,competition,competition,antagonistic interaction
+91,92,Firmicutes,Firmicutes,0.202172096908939,low,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+19,69,Actinobacteria,Actinobacteria,0.204545454545455,low,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+92,95,Firmicutes,Firmicutes,0.209059233449477,low,neutralism,commensalism,commensalism,commensalism,commensalism,synergistic interaction
+23,24,Proteobacteria,Proteobacteria,0.212334113973458,low,neutralism,neutralism,neutralism,amensalism,amensalism,antagonistic interaction
+46,49,Fusobacteria,Fusobacteria,0.227198697068404,low,neutralism,competition,competition,competition,competition,antagonistic interaction
+52,100,Proteobacteria,Proteobacteria,0.236868686868687,low,competition,competition,competition,competition,competition,antagonistic interaction
+9,32,Firmicutes,Firmicutes,0.23959938366718,low,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+32,44,Firmicutes,Firmicutes,0.24056999161777,low,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+52,72,Proteobacteria,Proteobacteria,0.248569942797712,low,competition,competition,competition,competition,competition,antagonistic interaction
+32,61,Firmicutes,Firmicutes,0.452535760728218,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+8,59,Firmicutes,Firmicutes,0.453333333333333,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+32,42,Firmicutes,Firmicutes,0.458,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+17,28,Actinobacteria,Firmicutes,0.461697722567288,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+26,41,Firmicutes,Firmicutes,0.473082099596232,medium,amensalism,competition,competition,competition,competition,antagonistic interaction
+9,61,Firmicutes,Firmicutes,0.475982532751092,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+39,71,Proteobacteria,Firmicutes,0.4808552958727,medium,amensalism,competition,amensalism,amensalism,amensalism,antagonistic interaction
+5,89,Actinobacteria,Actinobacteria,0.481138790035587,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+36,65,Actinobacteria,Firmicutes,0.482616381850324,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+14,34,Actinobacteria,Actinobacteria,0.492920353982301,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+44,57,Firmicutes,Firmicutes,0.502356902356902,medium,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+81,86,Bacteroidetes,Bacteroidetes,0.504962779156328,medium,neutralism,neutralism,amensalism,amensalism,amensalism,antagonistic interaction
+7,35,Firmicutes,Actinobacteria,0.512666666666667,medium,neutralism,neutralism,commensalism,commensalism,commensalism,synergistic interaction
+55,94,Firmicutes,Firmicutes,0.521386430678466,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+12,49,Bacteroidetes,Fusobacteria,0.535559678416821,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+17,55,Actinobacteria,Firmicutes,0.537537537537538,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+31,62,Firmicutes,Firmicutes,0.542360060514372,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+42,89,Firmicutes,Actinobacteria,0.542992552471226,medium,neutralism,commensalism,commensalism,commensalism,commensalism,synergistic interaction
+53,74,Proteobacteria,Proteobacteria,0.545075560187598,medium,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+32,89,Firmicutes,Actinobacteria,0.54654442877292,medium,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+62,77,Firmicutes,Bacteroidetes,0.751303052866716,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+12,96,Bacteroidetes,Firmicutes,0.7521722704949,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+55,75,Firmicutes,Bacteroidetes,0.753757225433526,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+21,55,Proteobacteria,Firmicutes,0.758562605277934,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+30,90,Firmicutes,Proteobacteria,0.759649122807018,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+1,96,Firmicutes,Firmicutes,0.761591962905719,high,neutralism,neutralism,commensalism,commensalism,commensalism,synergistic interaction
+26,79,Firmicutes,Bacteroidetes,0.763844936708861,high,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+59,78,Firmicutes,Bacteroidetes,0.764083304882212,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+26,90,Firmicutes,Proteobacteria,0.766071428571429,high,neutralism,neutralism,amensalism,amensalism,amensalism,antagonistic interaction
+14,77,Actinobacteria,Bacteroidetes,0.770642201834862,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+90,95,Proteobacteria,Firmicutes,0.772768532526475,high,neutralism,commensalism,commensalism,commensalism,commensalism,synergistic interaction
+77,93,Bacteroidetes,Firmicutes,0.775297083183291,high,commensalism,commensalism,commensalism,commensalism,commensalism,synergistic interaction
+38,79,Actinobacteria,Bacteroidetes,0.775738228252195,high,neutralism,neutralism,neutralism,amensalism,amensalism,antagonistic interaction
+17,78,Actinobacteria,Bacteroidetes,0.782402707275804,high,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+14,79,Actinobacteria,Bacteroidetes,0.791378609190728,high,amensalism,amensalism,amensalism,amensalism,amensalism,antagonistic interaction
+89,90,Actinobacteria,Proteobacteria,0.798319327731093,high,neutralism,commensalism,commensalism,commensalism,commensalism,synergistic interaction
+78,89,Bacteroidetes,Actinobacteria,0.803403959708232,high,neutralism,commensalism,commensalism,exploitation,exploitation,synergistic interaction
+73,74,Tenericutes,Proteobacteria,0.80794701986755,high,neutralism,neutralism,neutralism,amensalism,amensalism,antagonistic interaction
+68,73,Proteobacteria,Tenericutes,0.82039911308204,high,neutralism,neutralism,neutralism,neutralism,neutralism,neutral
+37,73,Bacteroidetes,Tenericutes,0.823995472552349,high,neutralism,neutralism,neutralism,amensalism,amensalism,antagonistic interaction
